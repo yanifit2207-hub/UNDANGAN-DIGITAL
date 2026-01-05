@@ -48,12 +48,12 @@ Undangan Pernikahan Bunyanun&amp;Eka
 <section>
   <h2>Mempelai</h2>
   <div class="card">
-      chibi-eka.png
+    ChatGPT Image 5 Jan 2026, 05.36.08.png.jpg
     <h3>Eka Fitriyani, SE</h3>
     <p>Putri tunggal dari<br>Bapak Abdul Salam (Alm)<br>dan Ibu Suprihatin (Almh)</p>
   </div>
   <div class="card">
-   chibi-bunyanun.png
+   ChatGPT Image 5 Jan 2026, 05.38.56.png.jpg
     <h3>Bunyanun Rizki, SE</h3>
     <p>Putra ketiga dari<br>Bapak Iskak (Alm)<br>dan Ibu Fajriyah Hamidah</p>
   </div>
